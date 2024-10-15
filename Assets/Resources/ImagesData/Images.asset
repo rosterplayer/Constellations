@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 905f24ae10b6474da9fcac13eedd58a6, type: 3}
+  m_Name: Images
+  m_EditorClassIdentifier: 
+  Stars:
+  - {fileID: 21300000, guid: 0ad3c913f56effd448de157d5b1a25ad, type: 3}
+  - {fileID: 21300000, guid: 86a9ab5756672ac4b8d851675566165f, type: 3}
+  Constellations:
+  - {fileID: 21300000, guid: 61abc81622d94af488180d2215c9e775, type: 3}
+  - {fileID: 21300000, guid: 2ad865a63cdb27e40a84dd48f1824c21, type: 3}
